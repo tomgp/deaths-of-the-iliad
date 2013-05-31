@@ -1,0 +1,7 @@
+body { width: 720px; margin: 0 auto; }
+img { max-width: 720px; }
+blockquote { margin-left: 0; border-left: 8px #999 solid; padding: 0 24px; }
+.archive h1, .subtitle, article { padding-bottom: 0.75em; border-bottom: 1px #ccc dotted; }
+.post a.llink { display: none; }
+.meta a { text-decoration: none; }
+.avatar { float: right; }
