@@ -1,3 +1,3 @@
 # DEATHS OF THE ILIAD
 
-Converting my Iliad deaths blog into something more searchable, expandable etc. An excuse to try makign something from node.js
+Deaths of the Iliad was a Tumblr blog recording all the murders in Homers epic poem. I quit tumblr and this repository is a back up.
